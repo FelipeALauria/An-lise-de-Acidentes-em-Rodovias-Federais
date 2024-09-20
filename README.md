@@ -1,4 +1,4 @@
-#Análise de Acidentes em Rodovias Federais Brasileiras (2019-2023)
+# Análise de Acidentes em Rodovias Federais Brasileiras (2019-2023)
 
 Este projeto foi desenvolvido com o objetivo de analisar dados sobre acidentes em rodovias federais no Brasil, utilizando técnicas estatísticas como a distribuição binomial e o teste qui-quadrado para comparar dados reais com dados simulados. A proposta original foi elaborada pela Profª Drª Adriana Barbosa, focando em uma análise probabilística de sucessos e fracassos no contexto de acidentes, utilizando um dataset público disponível no Kaggle.
 
