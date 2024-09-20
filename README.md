@@ -10,6 +10,7 @@ O principal objetivo deste projeto é comparar a proporção de acidentes sem mo
 
 Critérios de Sucesso e Fracasso
 Sucesso: Acidentes onde não houve mortos e feridos.
+
 Fracasso: Acidentes que resultaram em mortes ou feridos.
 
 Metodologia
