@@ -28,6 +28,9 @@ Com base na proporção de sucessos reais, realizamos uma simulação de novos d
 4. Teste Qui-Quadrado
 Para verificar se há diferenças significativas entre os dados reais e simulados, aplicamos o teste qui-quadrado.
 
-5. Visualização dos Resultados
+5. Salvamento dos dados em uma planilha
+Os dados são salvos após a simulação em um planilha armazenando o numero de sucessos e fracassos esperados, sucessos e fracassos observados e os valores de qui-quadrado e P-valor de cada simulação.  
+
+6. Visualização dos Resultados
 Foi gerado um gráfico comparativo entre os dados reais e simulados para ilustrar a diferença entre os eventos de sucesso (sem mortes) e fracasso (com mortes).
 
