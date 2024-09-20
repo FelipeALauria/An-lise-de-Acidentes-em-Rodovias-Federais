@@ -8,10 +8,11 @@ O dataset utilizado para esta análise contém dados de acidentes em rodovias fe
 Objetivo
 O principal objetivo deste projeto é comparar a proporção de acidentes sem mortes e com mortes, realizando simulações probabilísticas e verificando se há diferenças estatisticamente significativas entre os dados reais e simulados. Para isso, utilizamos a distribuição binomial para modelar o comportamento de sucessos (acidentes sem mortes) e fracassos (acidentes com mortes) e o teste qui-quadrado para validar os resultados.
 
-Critérios de Sucesso e Fracasso
-Sucesso: Acidentes onde não houve mortos e feridos.
+Critérios de Sucesso e Fracasso:
 
-Fracasso: Acidentes que resultaram em mortes ou feridos.
+- Sucesso: Acidentes onde não houve mortos e feridos.
+
+- Fracasso: Acidentes que resultaram em mortes ou feridos.
 
 Metodologia
 1. Importação e Preparação dos Dados
